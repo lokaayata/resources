@@ -1,5 +1,5 @@
-### Activists and atheists
 ###### [Back to resources](index.md)
+### Activists and atheists
 
 * Indian
   * Bhagat Singh (1907-1931): [Why I am an Atheist](https://en.wikipedia.org/wiki/Why_I_Am_an_Atheist)
