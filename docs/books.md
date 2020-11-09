@@ -1,11 +1,6 @@
 ###### [Back to resources](index.md)
 ### Books
-[
-[D](#D)|
-[H](#H)|
-[R](#R)|
-[S](#S)|
-]
+[[D](#D)|[H](#H)|[R](#R)|[S](#S)]
 
 [<a name="D"></a>D]
 * [Narendra Dabholkar](https://en.wikipedia.org/wiki/Narendra_Dabholkar)
@@ -40,4 +35,5 @@
   
 * ...
 
+[[D](#D)|[H](#H)|[R](#R)|[S](#S)]
 ### [Back to resources](index.md)
