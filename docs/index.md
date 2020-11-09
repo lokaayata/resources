@@ -20,11 +20,7 @@
 	* [Charity Navigator](https://www.charitynavigator.org/)
 	* [Maharashtra anti-superstion and anti-blackmagic act](https://en.wikipedia.org/wiki/Anti-Superstition_and_Black_Magic_Act)
 	
-* Books
-	* Books by Richard Dawkins
-	* Books by Narendra Dabholkar
-	* Books by Christopher Hitchins
-	* ...
+* [Books](books.md)
 	
 * Activists and Atheists
 	* Bhagat Singh
