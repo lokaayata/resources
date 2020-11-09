@@ -22,13 +22,8 @@
 	
 * [Books](books.md)
 	
-* Activists and Atheists
-	* Bhagat Singh
-	* Hamid Dalwai
-	* Narendra Dabholkar
-	* Pansare
-	* Kalburgi
-	* ...
+* [Activists and Atheists](activists.md)
+
 	
 	
 	
