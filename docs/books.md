@@ -39,7 +39,7 @@
 
 [<a name="T"></a>T]
 * [Evan Thompson](https://en.wikipedia.org/wiki/Evan_Thompson)
-  *[Why I am not a Buddhist](https://www.amazon.com/Why-I-Am-Not-Buddhist/dp/0300226551)
+  * [Why I am not a Buddhist](https://www.amazon.com/Why-I-Am-Not-Buddhist/dp/0300226551)
 * ...
 
 [[D](#D)|[H](#H)|[I](#I)|[R](#R)|[S](#S)|[T](#T)]
