@@ -1,6 +1,6 @@
 ###### [Back to resources](index.md)
 ### Books
-[[D](#D)|[H](#H)|[R](#R)|[S](#S)]
+[[D](#D)|[H](#H)|[I](#I)|[R](#R)|[S](#S)|[T](#T)]
 
 [<a name="D"></a>D]
 * [Narendra Dabholkar](https://en.wikipedia.org/wiki/Narendra_Dabholkar)
@@ -21,6 +21,10 @@
   * [God is not Great](https://en.wikipedia.org/wiki/God_Is_Not_Great)
   * [The Portable Atheist](https://en.wikipedia.org/wiki/The_Portable_Atheist)
 
+[<a name="I"></a>I]
+* [Kancha Ilaiah](https://en.wikipedia.org/wiki/Kancha_Ilaiah)
+  * [Why I am not a Hindu](https://www.amazon.com/Why-I-Am-Not-Hindu/dp/8185604827)
+
 [<a name="R"></a>R]
 * [Bertrand Russel](https://en.wikipedia.org/wiki/Bertrand_Russell)
   * [Why I am not a Christian](https://en.wikipedia.org/wiki/Why_I_Am_Not_a_Christian)
@@ -32,8 +36,11 @@
   * [The Believing Brain](https://www.amazon.com/Believing-Brain-Conspiracies-How-Construct-Reinforce/dp/1250008808/ref=sr_1_3?crid=EFSEK5AQ6OCF&dchild=1&keywords=michael+shermer&qid=1604880926&s=books&sprefix=shermer%2Cstripbooks%2C231&sr=1-3)
   * [Giving the Devil his Due](https://www.amazon.com/Giving-Devil-his-Due-Reflections/dp/1108489788/ref=sr_1_2?crid=EFSEK5AQ6OCF&dchild=1&keywords=michael+shermer&qid=1604880926&s=books&sprefix=shermer%2Cstripbooks%2C231&sr=1-2)
   * ...
-  
+
+[<a name="T"></a>T]
+* [Evan Thompson](https://en.wikipedia.org/wiki/Evan_Thompson)
+  *[Why I am not a Buddhist](https://www.amazon.com/Why-I-Am-Not-Buddhist/dp/0300226551)
 * ...
 
-[[D](#D)|[H](#H)|[R](#R)|[S](#S)]
+[[D](#D)|[H](#H)|[I](#I)|[R](#R)|[S](#S)|[T](#T)]
 ### [Back to resources](index.md)
