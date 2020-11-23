@@ -19,6 +19,7 @@
 	* [American Atheists](https://www.atheists.org/)
 	* [Charity Navigator](https://www.charitynavigator.org/)
 	* [Maharashtra anti-superstion and anti-blackmagic act](https://en.wikipedia.org/wiki/Anti-Superstition_and_Black_Magic_Act)
+	* [Richard Dawkins' Award](https://en.wikipedia.org/wiki/Richard_Dawkins_Award)
 	
 * [Books](books.md)
 	
