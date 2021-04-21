@@ -43,6 +43,8 @@
 
 * [David Silverman](https://en.wikipedia.org/wiki/David_Silverman_(activist))
   * [Fighting God: An Atheist Manifesto for a Religious World](https://www.amazon.com/Fighting-God-Atheist-Manifesto-Religious/dp/1250130719/ref=pd_lpo_14_img_0/132-3261237-8759747?_encoding=UTF8&pd_rd_i=1250130719&pd_rd_r=4f2ebee6-5632-48c5-a0a9-eb800e23a11a&pd_rd_w=pVH48&pd_rd_wg=y3VSR&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=NCX29C95P66GNQCCEWVE&psc=1&refRID=NCX29C95P66GNQCCEWVE)
+  * [The Curse of God: Why I Left Islam](https://www.amazon.com/Curse-God-Why-Left-Islam/dp/1984502123)
+  * ...
 
 [<a name="T"></a>T]
 * [Evan Thompson](https://en.wikipedia.org/wiki/Evan_Thompson)
