@@ -35,6 +35,9 @@
   * ...
 
 [<a name="S"></a>S]
+* [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)
+  * [The Demon Haunted World](https://en.wikipedia.org/wiki/The_Demon-Haunted_World) - with Ann Druyan
+  
 * [Michael Shermer](https://en.wikipedia.org/wiki/Michael_Shermer)
   * [Why People Believe Weird Things](https://www.amazon.com/People-Believe-Weird-Things-Pseudoscience/dp/0805070893/ref=sr_1_4?crid=EFSEK5AQ6OCF&dchild=1&keywords=michael+shermer&qid=1604880926&s=books&sprefix=shermer%2Cstripbooks%2C231&sr=1-4)
   * [The Believing Brain](https://www.amazon.com/Believing-Brain-Conspiracies-How-Construct-Reinforce/dp/1250008808/ref=sr_1_3?crid=EFSEK5AQ6OCF&dchild=1&keywords=michael+shermer&qid=1604880926&s=books&sprefix=shermer%2Cstripbooks%2C231&sr=1-3)
