@@ -1,5 +1,9 @@
 ### Resources
 
+* [Activists and Atheists](activists.md)
+
+* [Books](books.md)
+
 * Groups
 	* [Maharashtra Andhashraddha Nirmoolan Samiti (MANS)](https://www.facebook.com/MaharashtraANiS/) (Facebook)
 	* [Indian Atheists](https://www.facebook.com/IndianAtheists/) (Facebook)
@@ -7,6 +11,7 @@
 * Publications
 	* [आजचा सुधारक](https://www.sudharak.in/)
 	* [American Atheist](https://www.atheists.org/magazine/) Magazine
+	* [Indian Sceptic](http://www.indiansceptic.in) Magazine
 
 * Websites
 	* [Atheism](https://en.wikipedia.org/wiki/Atheism) Wikipedia
@@ -22,9 +27,9 @@
 	* [Richard Dawkins' Award](https://en.wikipedia.org/wiki/Richard_Dawkins_Award)
 	* [Skeptism Conferences](https://en.wikipedia.org/wiki/List_of_skeptical_conferences)
 	
-* [Books](books.md)
+
 	
-* [Activists and Atheists](activists.md)
+
 
 	
 	
