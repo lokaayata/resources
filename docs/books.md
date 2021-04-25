@@ -64,5 +64,5 @@
 * [Mick West](https://en.wikipedia.org/wiki/Mick_West)
   * [Escaping The Rabbit Hole](https://www.amazon.com/Escaping-Rabbit-Hole-Conspiracy-Theories-ebook/dp/B077YS5G2N)
 
-[[D](#D)|[H](#H)|[I](#I)|[K](#K)|[R](#R)|[S](#S)|[T](#T)]
+[[D](#D)|[H](#H)|[I](#I)|[K](#K)|[N](#N)|[R](#R)|[S](#S)|[T](#T)|[W](#W)]
 ### [Back to resources](index.md)
