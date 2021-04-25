@@ -1,6 +1,6 @@
 ###### [Back to resources](index.md)
 ### Books
-[[D](#D)|[H](#H)|[I](#I)|[K](#K)|[R](#R)|[S](#S)|[T](#T)]
+[[D](#D)|[H](#H)|[I](#I)|[K](#K)|[N](#N)|[R](#R)|[S](#S)|[T](#T)|[W](#W)]
 
 [<a name="D"></a>D]
 * [Narendra Dabholkar](https://en.wikipedia.org/wiki/Narendra_Dabholkar)
@@ -29,6 +29,10 @@
 * [Prem Kamble](https://www.facebook.com/pukamble11)
   * [God in Two Minutes](https://www.amazon.com/God-Two-Minutes-Prem-Kamble-ebook/dp/B005RQCBNQ/ref=sr_1_1)
 
+[<a name="N"></a>N]
+* [Steven Novella](https://en.wikipedia.org/wiki/Steven_Novella)
+  * [The Skeptics Guide to the Universe](https://www.theskepticsguide.org/our-book)
+
 [<a name="R"></a>R]
 * [Bertrand Russel](https://en.wikipedia.org/wiki/Bertrand_Russell)
   * [Why I am not a Christian](https://en.wikipedia.org/wiki/Why_I_Am_Not_a_Christian)
@@ -55,6 +59,10 @@
 * [Evan Thompson](https://en.wikipedia.org/wiki/Evan_Thompson)
   * [Why I am not a Buddhist](https://www.amazon.com/Why-I-Am-Not-Buddhist/dp/0300226551)
 * ...
+
+[<a name="W"></a>W]
+* [Mick West](https://en.wikipedia.org/wiki/Mick_West)
+  * [Escaping The Rabbit Hole](https://www.amazon.com/Escaping-Rabbit-Hole-Conspiracy-Theories-ebook/dp/B077YS5G2N)
 
 [[D](#D)|[H](#H)|[I](#I)|[K](#K)|[R](#R)|[S](#S)|[T](#T)]
 ### [Back to resources](index.md)
