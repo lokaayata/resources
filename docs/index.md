@@ -1,4 +1,5 @@
 ### Resources
+#### [Submit resources you know](https://forms.gle/6zChto1Rf6K4AhT39)
 
 * [Activists and Atheists](activists.md)
 
