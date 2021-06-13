@@ -1,6 +1,17 @@
 ###### [Back to resources](index.md)
 ### Books
-[[D](#D)|[H](#H)|[I](#I)|[K](#K)|[N](#N)|[R](#R)|[S](#S)|[T](#T)|[W](#W)]
+[[A][#A]|[B](#B)|[D](#D)|[H](#H)|[I](#I)|[K](#K)|[N](#N)|[R](#R)|[S](#S)|[T](#T)|[W](#W)]
+
+[<a name="A"></a>A]
+* Elliot Aronson
+  * [Mistakes were made but not by me](https://smile.amazon.com/Mistakes-Were-Made-But-Third/dp/B08YS5L4RJ/ref=sr_1_1?dchild=1&keywords=mistakes+were+made&qid=1623621568&sr=8-1)
+
+[<a name="B"></a>B]
+* Mahazarin Banaji
+  * [Blindspot](https://smile.amazon.com/Blindspot-audiobook/dp/B00IS70DI6/ref=sr_1_1?crid=8QHTADIPL74U&dchild=1&keywords=blindspot+hidden+biases+of+good+people&qid=1623622262&s=books&sprefix=blindspot+hidd%2Cstripbooks%2C252&sr=1-1)
+
+* David Buss
+  * [Evolutionary Psychology](https://smile.amazon.com/Evolutionary-Psychology-New-Science-Mind/dp/1138088617/ref=sr_1_1?dchild=1&keywords=evolutionary+psychology+buss&qid=1623622131&s=books&sr=1-1)
 
 [<a name="D"></a>D]
 * [Narendra Dabholkar](https://en.wikipedia.org/wiki/Narendra_Dabholkar)
@@ -20,6 +31,9 @@
 * [Christopher Hitchins](https://en.wikipedia.org/wiki/Christopher_Hitchens)
   * [God is not Great](https://en.wikipedia.org/wiki/God_Is_Not_Great)
   * [The Portable Atheist](https://en.wikipedia.org/wiki/The_Portable_Atheist)
+
+* [Douglas Hofstadter](https://en.wikipedia.org/wiki/Douglas_Hofstadter)
+  * [Flame of Reason](https://fritanke.se/flame-of-reason/)
 
 [<a name="I"></a>I]
 * [Kancha Ilaiah](https://en.wikipedia.org/wiki/Kancha_Ilaiah)
@@ -51,11 +65,17 @@
 * [David Silverman](https://en.wikipedia.org/wiki/David_Silverman_(activist))
   * [Fighting God: An Atheist Manifesto for a Religious World](https://www.amazon.com/Fighting-God-Atheist-Manifesto-Religious/dp/1250130719/ref=pd_lpo_14_img_0/132-3261237-8759747?_encoding=UTF8&pd_rd_i=1250130719&pd_rd_r=4f2ebee6-5632-48c5-a0a9-eb800e23a11a&pd_rd_w=pVH48&pd_rd_wg=y3VSR&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=NCX29C95P66GNQCCEWVE&psc=1&refRID=NCX29C95P66GNQCCEWVE)
 
+* Christer Sturmark
+  * [Flame of Reason](https://fritanke.se/flame-of-reason/)
+
 * Harris Sultan
   * [The Curse of God: Why I Left Islam](https://www.amazon.com/Curse-God-Why-Left-Islam/dp/1984502123)
   * ...
 
 [<a name="T"></a>T]
+* Carol Tavris
+  * [Mistakes were made but not by me](https://smile.amazon.com/Mistakes-Were-Made-But-Third/dp/B08YS5L4RJ/ref=sr_1_1?dchild=1&keywords=mistakes+were+made&qid=1623621568&sr=8-1)
+  
 * [Evan Thompson](https://en.wikipedia.org/wiki/Evan_Thompson)
   * [Why I am not a Buddhist](https://www.amazon.com/Why-I-Am-Not-Buddhist/dp/0300226551)
 * ...
@@ -64,5 +84,5 @@
 * [Mick West](https://en.wikipedia.org/wiki/Mick_West)
   * [Escaping The Rabbit Hole](https://www.amazon.com/Escaping-Rabbit-Hole-Conspiracy-Theories-ebook/dp/B077YS5G2N)
 
-[[D](#D)|[H](#H)|[I](#I)|[K](#K)|[N](#N)|[R](#R)|[S](#S)|[T](#T)|[W](#W)]
+[[A][#A]|[B](#B)|[D](#D)|[H](#H)|[I](#I)|[K](#K)|[N](#N)|[R](#R)|[S](#S)|[T](#T)|[W](#W)]
 ### [Back to resources](index.md)
