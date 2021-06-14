@@ -1,6 +1,6 @@
 ###### [Back to resources](index.md)
 ### Books
-[[A][#A]|[B](#B)|[D](#D)|[H](#H)|[I](#I)|[K](#K)|[N](#N)|[R](#R)|[S](#S)|[T](#T)|[W](#W)]
+[[A](#A)|[B](#B)|[D](#D)|[H](#H)|[I](#I)|[K](#K)|[N](#N)|[R](#R)|[S](#S)|[T](#T)|[W](#W)]
 
 [<a name="A"></a>A]
 * Elliot Aronson
@@ -84,5 +84,5 @@
 * [Mick West](https://en.wikipedia.org/wiki/Mick_West)
   * [Escaping The Rabbit Hole](https://www.amazon.com/Escaping-Rabbit-Hole-Conspiracy-Theories-ebook/dp/B077YS5G2N)
 
-[[A][#A]|[B](#B)|[D](#D)|[H](#H)|[I](#I)|[K](#K)|[N](#N)|[R](#R)|[S](#S)|[T](#T)|[W](#W)]
+[[A](#A)|[B](#B)|[D](#D)|[H](#H)|[I](#I)|[K](#K)|[N](#N)|[R](#R)|[S](#S)|[T](#T)|[W](#W)]
 ### [Back to resources](index.md)
